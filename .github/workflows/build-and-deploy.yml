@@ -13,11 +13,11 @@ jobs:
       # Get src
       - name: Get source file from repo
         uses: actions/checkout@v3
-      # Use Node.js Version 16.x
-      - name: Use Node.js 16
+      # Use Node.js Version 18.x
+      - name: Use Node.js 18
         uses: actions/setup-node@v3
         with:
-          node-version: 16 # ps. change to `14` if coz any problem(s)
+          node-version: 18 # ps. change to `14` if coz any problem(s)
       # Install deps
       - name: Install deps
         run: npm install
