@@ -1,0 +1,47 @@
+name: Build and Deploy Home
+
+on:
+  # Run GH Actions if push to `master` branch
+  push:
+    branches:
+      - master # ps. change to `main` if ur default branch follow's GitHub
+jobs:
+  build-and-deploy:
+    # Use macOS Monterey 12
+    runs-on: macos-12 # ps. change to `ubuntu-latest` if coz any problem(s)
+    steps:
+      # Get src
+      - name: Get source file from repo
+        uses: actions/checkout@v3
+      # Use Node.js Version 16.x
+      - name: Use Node.js 16
+        uses: actions/setup-node@v3
+        with:
+          node-version: 16 # ps. change to `14` if coz any problem(s)
+      # Install deps
+      - name: Install deps
+        run: npm install
+      # Config system env (SSH, Git, etc.)
+      - name: Config env
+        env:
+          DEPLOY_SEC_KEY: ${{ secrets.DEPLOY_SEC_KEY }} # ps. change to your own value
+        run: |
+          mkdir -p ~/.ssh/
+          echo "$DEPLOY_SEC_KEY" > ~/.ssh/id_rsa
+          chmod 777 ~/.ssh/id_rsa
+          ssh-keyscan github.com >> ~/.ssh/known_hosts
+          git config --global user.name "Homepage Deployment"
+          git config --global user.email "khhdeployhome@fakeaddress.nekohuan.cyou"
+        # chmod 777 may coz security problems
+      # Build static files from src
+      - name: Build from source
+        run: npm run build
+      # Output to branch `static` from `master`
+      - name: Output to branch `static`
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./build
+          publish_branch: static
+
+# Authored by KuoHuanHuan.
