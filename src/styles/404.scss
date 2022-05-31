@@ -1,0 +1,15 @@
+@charset 'utf-8';
+
+/* Not found page*/
+main {
+  margin: 10px;
+}
+a {
+  font-size: 125%;
+}
+/* Force resize image if mobile*/
+@media screen and (max-width: 670px) {
+  img {
+    width: 90%;
+  }
+} /* ps. 670px is Apple iPhone SE (2020)'s landscape width.*/

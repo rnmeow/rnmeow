@@ -1,0 +1,31 @@
+@charset 'utf-8';
+
+/* Normalize.CSS*/
+@import url(
+  'normalize.css/normalize.css'
+);
+/* Import Google Fonts for all-page wide*/
+@import url(
+  'https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&family=Poppins:wght@400;600&display=swap'
+);
+
+/* Unique bg color*/
+body {
+  -webkit-text-size-adjust: 100%; /* In fact I dont care*/
+  background-color: #e5e5e5;
+}
+/* Main app styles*/
+#app {
+  width: 100%;
+  color: #2c3e50;
+  margin-top: 50px;
+  font-family: 'Poppins', sans-serif;
+  text-align: center !important;
+}
+p {
+  line-height: 1.75;
+}
+a {
+  color: #4a4;
+  text-decoration: dotted underline;
+}

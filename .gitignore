@@ -1,0 +1,13 @@
+# Logs
+*.log
+yarn-debug.log*
+yarn-error.log*
+
+# Env 'n' build
+node_modules/
+build/
+*.local
+yarn.lock
+
+# VS Code folder
+.vscode
