@@ -7,7 +7,7 @@ INTP-A. Taiwanese. OSS Developer. Biological Male.
 
 * Verify *
 
-Check the `rnmeow.crt` in this repository.
+Check the file `rnmeow.crt` in this repository.
 sha256 c809b288cb7c2a4f5502b917ebab0c294f98ccb77e32d7a1132489d953147125
 
 PS.	I no longer use OpenPGP since it is old-fashioned and weak.
