@@ -5,13 +5,6 @@ I am currently learning TypeScript, React, Go, and SQL.
 
 INTP-A. Taiwanese. OSS Developer. Biological Male.
 
-* Verify
-
-Check the file `rnmeow.crt` in this repository.
-sha256 c809b288cb7c2a4f5502b917ebab0c294f98ccb77e32d7a1132489d953147125
-
-# I no longer use OpenPGP since it is old-fashioned and weak.
-
 * Contact
 
 Mastodon:	@rm@g0v.social [inactive]
@@ -20,6 +13,16 @@ Signal:		@rnmeow.17
 E-mail:		base64 dG91Y2hAcm5tZW93LmNvbQ==
 Website:	<https://nekohuan.cyou>
 
+* Verification
+
+Commits in this repository are all signed with my S/MIME certificate.
+
+Further more, you can check the `SMIMEA` record here:
+
+	f0956726750ca787d943bb3ca8ba098bdbff341512524ebb1c887ca1._smimecert.rnmeow.com.
+
+# I no longer use OpenPGP since it is old-fashioned and weak.
+
 * Donate
 
 Thanks for your support!
@@ -27,4 +30,4 @@ Thanks for your support!
 
 ***
 
-17 MAR 2024
+17 MAR 2024 (REVISED ON 4 APR)
