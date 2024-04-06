@@ -7,7 +7,7 @@ INTP-A. Taiwanese. OSS Developer. Biological Male.
 
 * Contact
 
-Mastodon:	@rm@g0v.social (inactive)
+Mastodon:	@rnmeow@hachyderm.io
 Telegram:	@rnmeow
 Signal:		@rnmeow.17
 E-mail:		base64 dG91Y2hAcm5tZW93LmNvbQ==
@@ -29,4 +29,4 @@ Thanks for your support!
 
 ***
 
-17 MAR 2024 (REVISED ON 4 APR)
+17 MAR 2024 (REVISED ON 6 APR)
