@@ -1,5 +1,7 @@
-This is Yu-huan Kuo (aka rnmeow), who is always interested in modern techs.
-I am currently learning TypeScript, React, Go, and SQL.
+#### Introdution ####
+
+This is Yu-huan Kuo (@rnmeow), who is awfully interested in modern techs.
+I am currently learning TypeScript, React, and Go.
 
 * Identity
 
