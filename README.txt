@@ -1,7 +1,7 @@
 #### Introdution ####
 
 This is Yu-huan Kuo (@rnmeow), who is awfully interested in modern techs.
-Also, I am trying to understand algorithm and software engineering.
+Also, I've touched some algorithm and software engineering stuff.
 
 * Identity
 
