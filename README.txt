@@ -1,11 +1,11 @@
 #### Introdution ####
 
 This is Yu-huan Kuo (@rnmeow), who is awfully interested in modern techs.
-I am currently learning TypeScript, React, and Go.
+Also, I am trying to understand algorithm and software engineering.
 
 * Identity
 
-INTP-A. Taiwanese. OSS Developer. Biological Male.
+INTP-A. Taiwanese. Web Developer.
 
 * Contact
 
