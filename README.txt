@@ -1,5 +1,5 @@
 This is Yu-huan Kuo (@rnmeow), who is awfully interested in modern techs.
-Also, I've touched some algorithm and software engineering stuff.
+Also, I've dabbled at some algorithm and software engineering stuff.
 
 * Identity
 
@@ -29,4 +29,4 @@ Thanks for your support!
 
 ***
 
-17 MAR 2024 (REVISED ON 6 APR)
+17 MAR 2024 (LAST REVISED: 14 APR)
