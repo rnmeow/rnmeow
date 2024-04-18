@@ -1,4 +1,4 @@
-This is Yu-huan Kuo (@rnmeow), who is awfully interested in modern techs.
+This is Connor Kuo (@rnmeow), who is awfully interested in modern techs.
 Also, I've dabbled at some algorithm and software engineering stuff.
 
 * Identity
