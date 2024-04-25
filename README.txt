@@ -9,7 +9,7 @@ INTP-A. Taiwanese. Web Developer.
 
 Mastodon:	@rnmeow@hachyderm.io
 Telegram:	@rnmeow
-Signal:		@rnmeow.17
+Signal:		@rnmeow.17 -> preferred
 E-mail:		base64 dG91Y2hAcm5tZW93LmNvbQ==
 Website:	<https://nekohuan.cyou>
 
