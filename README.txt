@@ -16,7 +16,7 @@ Website:	<https://nekohuan.cyou>
 * Verification
 
 Commits in this repository are all signed with my S/MIME certificate.
-Further more, you can check the SMIMEA record here:
+Further more, you can check the SMIMEA DNS record here:
 
 f0956726750ca787d943bb3ca8ba098bdbff341512524ebb1c887ca1._smimecert.rnmeow.com.
 
