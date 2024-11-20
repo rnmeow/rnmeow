@@ -1,5 +1,5 @@
-This is Connor Kuo (@rnmeow), who is awfully interested in modern techs.
-Also, I've dabbled at some algorithm and software engineering stuff.
+This is Connor Kuo (@rnmeow), who is interested in modern techs.
+Basically, I do full-stack Web development and network engineering stuff.
 
 * Identity
 
