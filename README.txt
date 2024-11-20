@@ -20,7 +20,8 @@ Further more, you can check the SMIMEA record here:
 
 	f0956726750ca787d943bb3ca8ba098bdbff341512524ebb1c887ca1._smimecert.rnmeow.com.
 
-# I no longer use OpenPGP as my primary key due to the inherent weaknesses in its trust model.
+# I no longer use OpenPGP as my primary key due to the inherent weaknesses in
+  its trust model.
 
 * Donate
 
