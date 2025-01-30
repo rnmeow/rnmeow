@@ -17,9 +17,8 @@ Website:	<https://nekohuan.cyou>
 * Verification
 
 Commits in this repository are all signed with my S/MIME certificate.
-Further more, you can check the SMIMEA DNS record here:
 
-f0956726750ca787d943bb3ca8ba098bdbff341512524ebb1c887ca1._smimecert.rnmeow.com.
+You can check the file [touch@rnmeow.com.pem] placed in this repository.
 
 # I no longer use OpenPGP as my primary key due to the inherent weaknesses in
   its trust model.
