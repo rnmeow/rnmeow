@@ -8,9 +8,9 @@ INTP-A. Taiwanese. Web Developer.
 * Contact
 
 E-mail:		base64 dG91Y2hAcm5tZW93LmNvbQ==
-Signal:		@rnmeow.17	# preferred
+Signal:		@rnmeow.17
 Telegram:	@rnmeow
-Threads:	@rnmeow.wasm
+Bluesky:	@rnmeow.com	# self-hosted on bs.rnmeow.com
 Mastodon:	@rm@g0v.social (zh-TW) / @rnmeow@hachyderm.io (en)
 Website:	<https://nekohuan.cyou>
 
@@ -30,4 +30,4 @@ Thanks for your support!
 
 ***
 
-17 MAR 2024 (LAST REVISED: 30 JAN 2025)
+17 MAR 2024 (LAST REVISED: 3 FEB 2025)
