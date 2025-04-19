@@ -12,7 +12,7 @@ Discord:	@rnmeow
 Signal:		@rnmeow.17	# preferred
 Telegram:	@rnmeow
 Mastodon:	@rm@g0v.social (zh-TW) / @rnmeow@hachyderm.io (en)
-Website:	<https://nekohuan.cyou>
+Website:	<https://rnmeow.com>
 
 * Verification
 
@@ -30,4 +30,4 @@ Thanks for your support!
 
 ***
 
-17 MAR 2024 (LAST REVISED: 13 MAR 2025)
+17 MAR 2024 (LAST REVISED: 19 APR 2025)
