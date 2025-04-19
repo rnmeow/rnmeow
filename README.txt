@@ -12,7 +12,8 @@ Discord:	@rnmeow
 Signal:		@rnmeow.17	# preferred
 Telegram:	@rnmeow
 Mastodon:	@rm@g0v.social (zh-TW) / @rnmeow@hachyderm.io (en)
-Website:	<https://rnmeow.com>
+X (Twitter):	@devrnmeow
+Web site:	<https://rnmeow.com>
 
 * Verification
 
