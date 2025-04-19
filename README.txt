@@ -1,9 +1,7 @@
 This is Connor Kuo (@rnmeow), who is interested in modern techs.
-Basically, I do full-stack Web development and network engineering stuff.
+A full-stack Web developer & network engineer.
 
-* Identity
-
-INTP-A. Taiwanese. Web Developer.
+Senior High Student @ TNFSH
 
 * Contact
 
